@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Jitendra:Admin1234@cluster0.mrath.mongodb.net/PROFILEREACT?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId" :"87bd37fd0740af16d2f6",
+    "githubSecret": "a7af5ab781894b6d70e0e1435c5fe96957cdc13b"
+}
